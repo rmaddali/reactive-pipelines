@@ -6,7 +6,7 @@
 Got to the https://github.com/rhte-reactive-labs/vertx-insult-gateway
 In the top-right corner of the page, click Fork
 
-== Clone the Vert.x Insult Gateway Starter Project
+== Fork the Vert.x Insult Gateway Starter Project
 [source,shell]
 ----
 git clone https://github.com/{YOUR-REPO}/vertx-insult-gateway.git (1)
