@@ -1,7 +1,6 @@
 == OpenShift Enivornment details
 
-https://master.{UID}.rhte.opentlc.com/console
-userid: provided to you
+https://master.{GUID}.rhte.opentlc.com/console/project/{youruserid}: provided to you
 password: provided to you
 
 Once you login to console, copy the login command on the right corner of the ocp console.
